@@ -4,12 +4,12 @@
 
 	<groupId>acme.com</groupId>
 	<artifactId>cicd-test</artifactId>
-	<version>1.0.14-SNAPSHOT</version>
+	<version>1.0.14</version>
     <packaging>pom</packaging>
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/sb-bischoff/cicd-test.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>cicd-test-1.0.14</tag>
   </scm>
 	
 </project>
